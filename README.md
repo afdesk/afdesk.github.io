@@ -1,2 +1,1 @@
-# afdesk.github.io
-afdesk.com
+# afdesk.com
